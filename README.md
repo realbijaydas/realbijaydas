@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 * 🌱 Currently learning **Data Structures, Algorithms & Development**
-* 💡 Interested in **Programming, Problem Solving & Data Science**
+* 💡 Interested in **Programming, Problem Solving, Web Development & Data Science**
 * 🔍 Exploring new technologies and improving coding skills
 * 🎯 Goal: To become a skilled software developer
 
@@ -15,10 +15,25 @@
 
 ## 🛠️ Skills
 
-* 💻 Languages: C, C++, Python, Java, JavaScript
-* 📊 Concepts: Data Structures & Algorithms
-* 🌐 Web: HTML, CSS, JavaScript
-* 🗄️ Database: MongoDB, MySQL
+### 💻 Languages
+
+C, C++, Python, Java, JavaScript
+
+### 🌐 Web & Backend
+
+HTML, CSS, JavaScript, Node.js
+
+### 📊 Data Science & Libraries
+
+NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Jupyter
+
+### 🗄️ Database
+
+MongoDB, MySQL
+
+### ⚙️ Core Concepts
+
+Data Structures & Algorithms
 
 ---
 
@@ -43,4 +58,4 @@
 
 ## ⚡ Fun Fact
 
-I love solving coding problems and building real-world projects 🚀
+I enjoy building projects and solving real-world problems using code 🚀
